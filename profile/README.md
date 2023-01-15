@@ -1,6 +1,12 @@
 # DAAD
 
-DAAD, a international organization based in the heart of the United Kingdom. Owned and managed by [TheUnusualDev][dev] and [Ted][ted]! Check us out at [our homepage][hp].
+## Made with ☕️ and 💜 from 🇬🇧, 🇦🇺 and 🇺🇸
+
+DAAD, an international organization based in the heart of the United Kingdom. Owned and managed by [Ryan][dev] and [Ted][ted].
+
+We strive to make dreams reality with code.
+
+Check us out at [daad.wtf][hp].
 
 [dev]: https://github.com/TheUnusualDev
 [ted]: https://github.com/Ted
