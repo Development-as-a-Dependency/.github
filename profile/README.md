@@ -1,7 +1,5 @@
 # DAAD
 
-## Made with ☕️ and 💜 from 🇬🇧, 🇦🇺 and 🇺🇸
-
 DAAD, an international organization based in the heart of the United Kingdom. Owned and managed by [Ryan][dev] and [Ted][ted].
 
 We strive to make dreams reality with code.
